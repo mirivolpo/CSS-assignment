@@ -1,0 +1,31 @@
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.nav-link{
+    text-decoration: none;
+}
+
+#left-logo {
+  float: left;
+  padding-top: 5px; 
+}
+
+#left-logo .logo {
+  
+}
+
+#right-btn {
+    float: right;
+}
+
+nav {
+    text-align: center;
+}
+
+.logo{
+    display: inline-block;
+}
